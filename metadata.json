@@ -1,0 +1,6 @@
+{
+  "name": "StudyQuest - Educational RPG & Boss Battles",
+  "description": "Turn studying into an epic RPG adventure! Earn XP, level up, battle boss monsters, complete grade-adapted quests, and conquer learning worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
